@@ -22,4 +22,8 @@
 ![Gambar 7](screenshot/ss%20menambahkan%20list.png)
 
 # Menggabungkan Semua Elemen
-![Gambar 9](screenshot/ss%20menggabungkan%20semua%20elemen.png)
+![Gambar 8](screenshot/ss%20menggabungkan%20semua%20elemen.png)
+
+# Cek Validasi Struktur HTML
+![Gambar 9](screenshot/ss%20cek%20validasi.png)
+
